@@ -9,7 +9,7 @@ Recreate by calling
 */
 
 
-module com.github.hacsing.Fix1 {
+module com.github.hacsing.Fix {
 
  token NUM  | [0-9]+;
  token WORD | [a-zA-Z]+;
