@@ -15,12 +15,21 @@ and spend time finding a fix, please share that through a pull request.
 
 ####Running Programs
 Each HACS program is meant to be minimal in nature and emphasize the specific error
-it fixes. Each HACS error/fix consists of two files, one suffixed with "_Error"
-and the other suffixed with "_Fix". Each file has an initial comment detailing
+it fixes. Each HACS error/fix consists of two files, one named "Error"
+and the other named with "Fix", with each issue stored in a separate directory.
+Each file has an initial comment detailing
 how to reproduce the issue (often issues arise not just at runtime but at HACS
 compile time).
 
+All programs have been tested on CIMS energon1 using HACS 1.1.16
 
 ####Contact
 If you have any suggestions/fixes to the fixes/concerns, feel free to contact me
 at jose.cambronero@cs.nyu.edu
+
+#####TODO
+I'm currently working on adding
+* "failed" matching with unreduced arguments
+* missing a case in a scheme definition
+* redefining a syntactic token
+ 
