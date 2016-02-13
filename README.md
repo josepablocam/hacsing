@@ -31,5 +31,4 @@ at jose.cambronero@cs.nyu.edu
 I'm currently working on adding
 * "failed" matching with unreduced arguments
 * missing a case in a scheme definition
-* redefining a syntactic token
  
