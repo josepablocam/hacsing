@@ -30,5 +30,4 @@ at jose.cambronero@cs.nyu.edu
 #####TODO
 I'm currently working on adding
 * "failed" matching with unreduced arguments
-* missing a case in a scheme definition
- 
+* infinite rewrite 
