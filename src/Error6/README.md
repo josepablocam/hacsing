@@ -1,5 +1,5 @@
 ##Sort mismatches in resulting sort
-Somewhat related to sort mismatches in arguments [Error1](../src/Error1/),
+Somewhat related to sort mismatches in arguments [Error1](../Error1/),
 it is also important that the term returned from a scheme actually match
 the sort declared in the scheme's signature. This can usually involve some nuance
 as the example here shows. The key is to make sure you are being as exact as possible
