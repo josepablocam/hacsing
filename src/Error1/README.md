@@ -1,4 +1,4 @@
-##Sort mismatches
+##Sort mismatches in arguments
 If you tell a scheme it takes a given sort, make sure you follow through!
 In this case, Test calls a second scheme that assumes the argument is sort Word,
 and tries to construct a program accordingly. If we give it a term of sort Num,

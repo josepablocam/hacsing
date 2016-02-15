@@ -1,6 +1,6 @@
 /*
 Scheme signatures are contracts to be fulfilled appropriately.
-If you state a scheme takes a given sort, and then had it something
+If you state a scheme takes a given sort as argument, and then had it something
 different, you'll be in trouble.
 
 Recreate by calling
